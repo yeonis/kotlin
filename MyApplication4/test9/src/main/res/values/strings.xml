@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test9</string>
+    <string name="txt_data1">Hello</string>
+    <string name="txt_data2">World</string>
+    <dimen name="txt_size">20dp</dimen>
+
+</resources>
+
+
